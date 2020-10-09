@@ -1,0 +1,16 @@
+.messageCont{
+    min-height: 50px;
+    width: 300px;
+    padding: 20px;
+    border: 1px solid black;
+    background-color: lightgray;
+    margin: 20px auto;
+    p{
+        padding: 0;
+        margin: 0;
+    }
+}
+
+.author{
+    color: orangered;
+}
