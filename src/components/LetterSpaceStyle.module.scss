@@ -1,0 +1,13 @@
+.loading{
+    text-align: center;
+    margin: 20px;
+}
+
+.messagesList{
+    display: flex;
+    justify-content: center;
+    flex-direction: column-reverse;
+    width: 600px;
+    margin: 20px auto;
+    background-color: whitesmoke;
+}

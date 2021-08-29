@@ -1,0 +1,4 @@
+export default {
+    DELETE_MESSAGE: 'DELETE_MESSAGE',
+    POST_MESSAGE: 'POST_MESSAGE',
+}
